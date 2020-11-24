@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.major-section {
+    width: 100%;
+}
+
+.main-one{
+    width: 50%;
+    height: auto;
+    background-color: khaki;
+}
+
+.header-section {
+    width: 100%;
+    padding: 25px;
+    margin: auto;
+    
+    
+}
+.fas {
+    margin-right: 20px;
+}
+.list-one {
+    list-style: none;
+}
+.list {
+    display: inline;
+    margin-right: 20px;
+    
+}
+.first-section {
+    width: 100%;
+   
+}
+.image {
+    width: 80%;
+    
+    
+}
+.imgs {
+    width: 100%;
+    float: left;
+    height: 700px;
+}
+.second-section {
+    width: 20%;
+    height: 700px;
+    float: left;
+    background-color: lightgreen;
+    
+}
+.second-awesome {
+   width: 100%;
+   margin-top: 130px;
+   margin-bottom: 1rem;
+   margin-left: 65px;
+}
+.number-one {
+    width: 100%;
+    margin-bottom: 1rem;
+    margin-left: 65px;
+}
+.circle {
+    width: 100%;
+    margin-bottom: 5px;
+    margin-left: 65px;
+}
+
+.number-two {
+    width: 100%;
+    margin-top: 1rem;
+    margin-left: 65px;
+}
+.awesome-four {
+    width: 100%;
+    margin-top: 1rem;
+    margin-left: 65px;
+}
+
+.main-two {
+    width: 50%;
+    height: 700px;
+    margin: auto;
+    
+     
+}
+.heado {
+  width: 100%;
+  height: auto;
+  
+  
+  
+  
+}
+section, .main-two{
+    background-color: khaki;
+}
+.head-left {
+    width: 100%;
+    position: absolute;
+    right: 38%;
+    top: 10px;
+    border: 1px solid;
+    box-sizing: border-box;
+    max-width: 10%;
+    max-height: 30%;
+    font-size: 18px;
+    text-align: center;
+    background-color: lightgreen;
+    
+}
+.head-right {
+    position: absolute;
+    right: 10px;
+    top: 30px;
+   
+}
+.middle {
+    width: 100%;
+}
+.middle-one {
+    position: absolute;
+    right: 20%;
+    top: 15%;
+    font-size: 35px;
+    
+}   
+.middle-two {
+    position: absolute;
+    right: 22%;
+    top: 20%;
+    font-size: 35px;
+}
+.radius {
+    width: 50%;
+}
+.radius-one {
+    width: 100%;
+}
+.image-one {
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    position: absolute;
+    right: 35%;
+    top: 40%;
+}
+.radius-two {
+    width: 100%;
+}
+.image-two {
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    position: absolute;
+    right: 20%;
+    top: 40%;
+}
+.radius-three {
+    width: 100%;
+}
+.image-three {
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    position: absolute;
+    right: 5%;
+    top: 40%;
+}
+.vertical {
+    width: 100%;
+}
+vl.vertical-one {
+    width: 33%;
+    border-left: 6px solid black;
+    height: 100px;
+    position: absolute;
+    right: 5px;
+    top: 45%;
+
+}
+.vertical-s {
+    width: 100%;
+}
+
+vl.vertical-two {
+    width: 17%;
+    border-left: 6px solid black;
+    height: 100px;
+    position: absolute;
+    right: 5px;
+    top: 45%;
+}
+
+.butto {
+    width: 100%;
+}
+.button {
+  background-color: lightgreen;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 8px 4px;
+  cursor: pointer;
+  position: absolute;
+  right: 245px;
+  top: 70%;
+}
+.social {
+    width: 100%;
+}
+
+.socials {
+  position: absolute;
+  right: 350px;
+  top: 90%;
+}
+
+.socialss {
+  position: absolute;
+  right: 325px;
+  top: 90%;
+}
+
+.socialsss {
+  position: absolute;
+  right: 303px;
+  top: 90%;
+}
+
+.words {
+    position: absolute;
+    right: 38%;
+    top: 65%;
+}
+
+.wordss {
+    position: absolute;
+    right: 23%;
+    top: 65%;
+}
+
+.wordsss {
+    position: absolute;
+    right: 7%;
+    top: 65%;
+}
